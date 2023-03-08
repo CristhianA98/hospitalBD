@@ -4,7 +4,8 @@ declare namespace Express {
             userid: number,
             name: string,
             lastname: string,
-            roleid: number
+            roleid: number,
+dsds:number
         }
     }
 }
